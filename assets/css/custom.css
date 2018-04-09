@@ -22,10 +22,6 @@ head.main {
     width: 100%;
 }
 
-section {
-    margin-top: 15px;
-}
-
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
 .marketing {
